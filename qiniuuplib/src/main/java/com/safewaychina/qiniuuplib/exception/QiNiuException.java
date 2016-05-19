@@ -1,0 +1,1 @@
+package com.safewaychina.qiniuuplib.exception;public class QiNiuException extends Exception {    private static final long serialVersionUID = 3854772125385537971L;    public QiNiuException(String message) {        super(message);    }}
